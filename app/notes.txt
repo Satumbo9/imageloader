@@ -1,0 +1,11 @@
+      <Lottie
+        animationData={visacard}
+        style={{
+          // Animation Style
+          width: "500px",
+          height: "500px",
+        }}
+        loop //Infinit Loop
+        // Trying to discover how to change the speed of the element here in the code
+        //I think the animation speed should be set before we download
+      />
